@@ -1,14 +1,14 @@
-# :chart_with_upwards_trend: Cadastro Anuncio
+# :chart_with_upwards_trend: Cadastro Anúncio
 
 > - Nossa solução permite cadastrar anúncios, e criar diversas consultas e relatórios como consta da Documentação.
 
-# Tecnologias Usadas
+# :space_invader: Tecnologias Usadas
 
 > - Java 11
 > - Eclipse IDE
 
 
-# Documentação
+# 📄 Documentação
 
 > - Basta executar o programa como uma Aplicação Java, e escolher uma opção mostrada na legenda da tela, como mostrado a seguir:
 
